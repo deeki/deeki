@@ -2,7 +2,7 @@
 
 Hi there 👋, I'm Deeksha Gupta!
 
-Linkedin:
+Linkedin: https://www.linkedin.com/in/deekshagupta0
 
 I'm Deeksha Gupta (she/her). I'm a Front-End Software Engineer by passion and focus on elegant design and user experiences.
 
@@ -10,7 +10,7 @@ I'm Deeksha Gupta (she/her). I'm a Front-End Software Engineer by passion and fo
 
 👨‍💻 **Programming languages**
 
-HTML, JavaScript, NodeJS, Markdown, PHP, SASS, TypeScript
+HTML, Css, JavaScript, NodeJS, TypeScript
 
 🧰 **Frameworks and libraries**
 
